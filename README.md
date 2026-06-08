@@ -1,6 +1,6 @@
 # 拷贝即译
 
-在做英语阅读时不想复制再去搜 因此有了这个软件 需要root权限
+在做英语阅读时不想复制再去搜 因此有了这个软件
 <img width="1329" height="817" alt="image" src="https://github.com/user-attachments/assets/d54ba3fd-8b6f-47b1-ae82-fe0bcfe844b4" />
 <img width="1323" height="762" alt="image" src="https://github.com/user-attachments/assets/09d0047a-0354-460e-aca7-2d6623dfa1f6" />
 <img width="1291" height="786" alt="image" src="https://github.com/user-attachments/assets/69405af6-75ce-4950-aef3-1cc1c69496ea" />
@@ -70,12 +70,12 @@
 如果某台设备的辅助功能事件不稳定，可以在 App 中：
 
 1. 打开普通悬浮窗权限
-2. 点击“启动备用监听”(该功能需要root授权用于保活)
+2. 点击“启动备用监听”
 3. 复制英文单词测试
 
 ## Android 10 到 Android 16 的限制
 
 Android 10（API 29）开始，系统限制后台应用读取前台应用剪贴板。
 
-因此本项目采用“辅助功能服务 + 选中文本事件 + 剪贴板变化”的组合方式，尽量接近“复制即弹出”。但不同 App 和不同 ROM 对辅助功能事件暴露程度不同，所以仍可能出现某些页面无法触发的情况，所以引入root权限用于稳定性。
+因此本项目采用“辅助功能服务 + 选中文本事件 + 剪贴板变化”的组合方式，尽量接近“复制即弹出”。但不同 App 和不同 ROM 对辅助功能事件暴露程度不同，所以仍可能出现某些页面无法触发的情况，因此引入root权限用于稳定性保活，可不授权。
 
