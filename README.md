@@ -1,6 +1,11 @@
 # 拷贝即译
 
 在做英语阅读时不想复制再去搜 因此有了这个软件 需要root权限
+<img width="1329" height="817" alt="image" src="https://github.com/user-attachments/assets/d54ba3fd-8b6f-47b1-ae82-fe0bcfe844b4" />
+<img width="1323" height="762" alt="image" src="https://github.com/user-attachments/assets/09d0047a-0354-460e-aca7-2d6623dfa1f6" />
+<img width="1291" height="786" alt="image" src="https://github.com/user-attachments/assets/69405af6-75ce-4950-aef3-1cc1c69496ea" />
+
+
 
 ## 功能
 
