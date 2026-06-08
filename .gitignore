@@ -1,0 +1,30 @@
+# Gradle / Android build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Local machine configuration
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Signing and release secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local debug captures
+*.png
+window.xml
+
+# Keep source launcher icons tracked
+!app/src/main/res/mipmap-*/ic_launcher.png
+!app/src/main/res/mipmap-*/ic_launcher_round.png

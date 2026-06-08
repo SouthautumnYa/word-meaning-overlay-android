@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.WordMeaningOverlay" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WordMeaningOverlay.ProcessText" parent="@android:style/Theme.NoDisplay">
+        <item name="android:windowNoDisplay">true</item>
+    </style>
+</resources>

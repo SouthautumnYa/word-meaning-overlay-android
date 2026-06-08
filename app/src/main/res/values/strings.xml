@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">拷贝即译</string>
+    <string name="notification_channel_name">单词监听</string>
+    <string name="notification_title">拷贝即译正在后台守候</string>
+    <string name="notification_text">复制或选中英文单词后，会在右上角显示中文释义</string>
+    <string name="process_text_label">悬浮释义</string>
+    <string name="process_text_invalid">请只选择一个英文单词。</string>
+    <string name="overlay_permission_required">请先授予悬浮窗权限。</string>
+    <string name="word_not_found">未查询到释义，请检查单词或网络状态。</string>
+    <string name="accessibility_service_label">拷贝即译辅助服务</string>
+    <string name="accessibility_service_summary">复制或选中英文单词后，在右上角显示中文释义</string>
+    <string name="accessibility_service_description">监听复制、选中文本和窗口内容变化，用于在复制英文单词后显示悬浮释义。</string>
+</resources>
